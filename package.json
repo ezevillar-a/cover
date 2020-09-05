@@ -1,0 +1,19 @@
+{
+  "name": "curriculum-1",
+  "version": "1.0.0",
+  "description": "Cover project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezevillar-a/curriculum.git"
+  },
+  "author": "EV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezevillar-a/curriculum/issues"
+  },
+  "homepage": "https://github.com/ezevillar-a/curriculum#readme"
+}
